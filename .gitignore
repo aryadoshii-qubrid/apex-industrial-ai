@@ -1,0 +1,16 @@
+# Python System Files
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Database & Local Assets
+*.db
+apex_industrial.db
+frontend/assets/
+
+# OS Files
+.DS_Store
