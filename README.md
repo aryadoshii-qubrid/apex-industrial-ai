@@ -1,10 +1,14 @@
 <div align="center">
 
-# 🔧 <span style="font-size: 3em; font-weight: 900;">DiagnostiQ</span>
+![Qubrid AI Banner](docs/screenshots/qubrid_banner.png)
+
+---
+
+# 🔧 DiagnostiQ
 
 ### 🏭 **Industrial Component Diagnostics** 🔍
 
-<sub>*⚡ Powered by Qubrid AI Vision Platform ⚡*</sub>
+<sub>*⚡ A production-ready INDUSTRIAL COMPONENT DIAGNOSTICS CHATBOT powered by Qubrid AI's advanced vision model Qwen3-VL-30B-A3B-Instruct ⚡*</sub>
 
 ---
 
@@ -25,7 +29,6 @@
 </div>
 
 ---
-
 
 ## 🎯 Overview
 
@@ -328,44 +331,20 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+## 📚 Learn More About Qubrid AI
 
----
+Explore more applications and tutorials built on the Qubrid AI platform:
 
-## 👨‍💻 Author
+### 📖 Resources
 
-**Arya Doshi**
-
-- **Role:** Generative AI Engineer Intern @ QubridAI
-- **Focus:** Industrial AI, Computer Vision, RAG Systems
-- **Education:** Final Year, Electronics & Telecommunications Engineering, VIT Pune
-- **Connect:** [LinkedIn](https://linkedin.com/in/aryadoshi) | [GitHub](https://github.com/aryadoshii-qubrid)
+- **[Qubrid Cookbook](https://github.com/QubridAI-Inc/qubrid-cookbook)** - Collection of example applications and integration guides
+- **[Video Tutorials](https://youtube.com/playlist?list=PLoaE-lmLecgPoYuSa2BsmlJ8isKB5KFtq&si=bbR6pVatRWVtj9e0)** - Step-by-step tutorials and demos
+- **[Qubrid Platform](https://platform.qubrid.com)** - Get your API key and explore documentation
 
 ---
 
-## 🙏 Acknowledgments
-
-- **QubridAI** for providing access to Qwen3-VL-30B model and the vision platform
-- **Alibaba Cloud** for developing the Qwen vision model family
-- **Streamlit** team for the excellent web framework
-- **Open Source Community** for the libraries powering this project
-
----
-
-## 📞 Support
-
-- **Issues:** [GitHub Issues](https://github.com/aryadoshii-qubrid/diagnostiq/issues)
-- **Documentation:** [Full Docs](docs/README.md)
-- **Email:** arya.doshi@qubridai.com
-
----
 
 <p align="center">
-  <strong>⭐ If you found this project useful, please consider giving it a star on GitHub!</strong>
-</p>
-
-<p align="center">
-  <em>Built with ❤️ for Industrial Quality Control Teams</em>
+  <em>Made with ❤️ by Qubrid AI</em>
 </p>
