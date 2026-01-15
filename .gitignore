@@ -1,4 +1,4 @@
-# Security: Never upload API keys
+# Security
 .env
 
 # Database: Keep local history local
@@ -9,5 +9,5 @@
 __pycache__/
 *.pyc
 
-# Mac system files (optional but good)
+# Mac system files
 .DS_Store
